@@ -1,4 +1,3 @@
-
 import math #this is so that the square root function can be used in task number 5
 print(" ") #this is just for looks when it is printed, makes a blank line before the start of my code
 print("The speed limit in this area is 50km/hr.\n")
